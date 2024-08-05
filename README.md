@@ -73,7 +73,7 @@ This project involves using Python for comprehensive data analysis to improve cu
 ## Conclusion
 This project demonstrates the use of Python for data cleaning, manipulation, and exploratory data analysis to improve customer experience and sales. By identifying potential customers based on various demographics, businesses can make informed decisions and implement effective sales strategies.
 
-This is based on tutorial: Here(https://www.youtube.com/watch?v=KgCgpCIOkIs)
+This is based on tutorial: [Here](https://www.youtube.com/watch?v=KgCgpCIOkIs)
 
 ---
 
