@@ -57,11 +57,11 @@ This project involves using Python for comprehensive data analysis to improve cu
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Hari-121/Customer_Insights_and_Sales_Improvement.git
+    git clone https://github.com/Hari-121/DiwaliSalesAnalysis.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Customer_Insights_and_Sales_Improvement
+    cd DiwaliSalesAnalysis
     ```
 3. Install the required libraries:
     ```bash
