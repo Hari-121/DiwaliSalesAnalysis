@@ -64,9 +64,7 @@ This project involves using Python for comprehensive data analysis to improve cu
     cd DiwaliSalesAnalysis
     ```
 3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 ### Usage
 1. Open the Jupyter notebooks in the `notebooks/` directory to follow the analysis.
