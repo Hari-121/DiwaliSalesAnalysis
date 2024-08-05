@@ -1,6 +1,5 @@
 # DiwaliSalesAnalysis
 
-# Customer Insights and Sales Improvement
 
 ## Project Overview
 This project involves using Python for comprehensive data analysis to improve customer experience and sales. The analysis focuses on data cleaning and manipulation, exploratory data analysis (EDA) using pandas, matplotlib, and seaborn. Key insights are generated to identify potential customers across different states, occupations, genders, and age groups.
