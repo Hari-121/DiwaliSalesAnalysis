@@ -62,7 +62,7 @@ This project involves using Python for comprehensive data analysis to improve cu
     ```bash
     cd DiwaliSalesAnalysis
     ```
-3. Install the required libraries:
+3. Install the required libraries
 
 
 ### Usage
